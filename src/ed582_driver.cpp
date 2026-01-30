@@ -1,6 +1,6 @@
 /**
  * @file ed582_driver.cpp
- * @author Robert Raye (robert.raye@nrel.gov)
+ * @author Robert Raye (robert.raye@nlr.gov)
  * @brief ros node for acquiring rtd temperatures from the brainboxes Ed582
  * @version 0.1
  * @date 2024-10-02

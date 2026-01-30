@@ -4,7 +4,7 @@
   <name>ed582</name>
   <version>0.0.1</version>
   <description>ros package for acquiring rtd temperatures from the brainboxes Ed582</description>
-  <maintainer email="robert.raye@nrel.gov">m2</maintainer>
+  <maintainer email="robert.raye@nlr.gov">m2</maintainer>
   <license>BSD-3-Clause</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
